@@ -1,7 +1,7 @@
 # Leap Year kata
 
 ```
-As a well organised person,
+As an organised person,
 I want to be able to check if a specific year is a leap year,
 So that I can plan for an extra day on February 29th.
 
